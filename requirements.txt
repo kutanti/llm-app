@@ -1,0 +1,15 @@
+openai
+langchain
+langchain-openai
+langchain-pinecone
+tiktoken
+pinecone-client
+scikit-learn
+ipykernel
+python-dotenv
+fastapi
+annotated-types
+pydantic
+redis
+types-redis
+uvicorn
